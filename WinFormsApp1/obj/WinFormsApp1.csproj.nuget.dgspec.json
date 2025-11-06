@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LESSONS\\DesktopDev\\FP\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "D:\\Đẩy từ C qua D cho bớt nặng\\511\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "D:\\LESSONS\\DesktopDev\\FP\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "D:\\Đẩy từ C qua D cho bớt nặng\\511\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LESSONS\\DesktopDev\\FP\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "D:\\Đẩy từ C qua D cho bớt nặng\\511\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "D:\\LESSONS\\DesktopDev\\FP\\WinFormsApp1\\WinFormsApp1.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\LESSONS\\DesktopDev\\FP\\WinFormsApp1\\obj\\",
+        "projectPath": "D:\\Đẩy từ C qua D cho bớt nặng\\511\\WinFormsApp1\\WinFormsApp1.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\Đẩy từ C qua D cho bớt nặng\\511\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\CODE\\STO\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,7 +40,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -68,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
